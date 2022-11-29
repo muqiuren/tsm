@@ -77,4 +77,4 @@ tsm help
 
 @暮秋人, 2022~time.Now
 
-Released under the [MIT License](https://github.com/muqiuren/tsm/blob/master/License)
+Released under the [MIT License](https://github.com/muqiuren/tsm/blob/master/LICENSE)
