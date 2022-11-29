@@ -1,6 +1,6 @@
 # TSM
 
-Terminal Services Manager, where you can store calls into Terminal.
+Terminal Service Manager, you can quickly store/connect to service nodes
 
 ## Overview
 
