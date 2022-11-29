@@ -17,7 +17,7 @@ Terminal Services Manager, where you can store calls into Terminal.
 If you are using linux or mac, you can execute the following command to get the compiled program file
 
 ```shell
-wget https://mirrors.host900.com/https://raw.githubusercontent.com/muqiuren/tsm/releases/download/v1.0.0
+wget https://github.com/muqiuren/tsm/releases/download/v1.0.0/tsm
 ```
 
 ### 2. Build
