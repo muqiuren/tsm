@@ -22,8 +22,6 @@ wget https://github.com/muqiuren/tsm/releases/download/v1.0.0/tsm
 
 ### 2. Build
 
-
-
 ```shell
 git clone https://github.com/muqiuren/tsm.git
 cd tsm && go mod tidy

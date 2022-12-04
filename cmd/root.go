@@ -14,7 +14,6 @@ import (
 
 // rootCmd represents the base command when called without any subcommands
 var (
-	id        int32
 	name      string
 	host      string
 	port      string

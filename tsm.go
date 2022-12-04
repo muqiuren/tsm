@@ -10,11 +10,11 @@ func main() {
 	defer func() {
 		err := utils.Db.Close()
 		if err != nil {
-			log.Fatalf("db close panic: %s\n", err)
+			log.Fatalf("db close panic: %v", err)
 		}
 
 		if err := recover(); err != nil {
-			log.Fatalf("catch panic: %s\n", err)
+			log.Fatalf("catch panic: %v", err)
 		}
 	}()
 	log.SetFlags(log.LstdFlags | log.Lmicroseconds)

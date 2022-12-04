@@ -32,7 +32,7 @@ var createCmd = &cobra.Command{
 		_, err = stmt.Exec(name, host, port, user, pass, now, now)
 		utils.CheckErr(err)
 
-		log.Printf("添加[%s]节点成功\n", name)
+		log.Printf("添加[%s]节点成功", name)
 	},
 }
 
