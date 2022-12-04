@@ -17,7 +17,7 @@ Terminal Service Manager, you can quickly store/connect to service nodes
 If you are using linux or mac, you can execute the following command to get the compiled program file
 
 ```shell
-wget https://github.com/muqiuren/tsm/releases/download/v1.0.0/tsm
+wget https://github.com/muqiuren/tsm/releases/download/v1.0.1/tsm
 ```
 
 ### 2. Build
